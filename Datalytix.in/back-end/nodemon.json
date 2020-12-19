@@ -1,0 +1,7 @@
+{
+    "env":{
+        "DB_USER":"datalytix",
+        "DB_PASSWORD":"datalytix",
+        "DB_NAME":"datalytixdb"
+    }
+}
